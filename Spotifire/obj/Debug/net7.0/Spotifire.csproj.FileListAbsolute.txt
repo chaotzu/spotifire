@@ -1,0 +1,15 @@
+/Users/jdiazm/Projects/Spotifire/Spotifire/bin/Debug/net7.0/Spotifire
+/Users/jdiazm/Projects/Spotifire/Spotifire/bin/Debug/net7.0/Spotifire.deps.json
+/Users/jdiazm/Projects/Spotifire/Spotifire/bin/Debug/net7.0/Spotifire.runtimeconfig.json
+/Users/jdiazm/Projects/Spotifire/Spotifire/bin/Debug/net7.0/Spotifire.dll
+/Users/jdiazm/Projects/Spotifire/Spotifire/bin/Debug/net7.0/Spotifire.pdb
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/Spotifire.csproj.AssemblyReference.cache
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/Spotifire.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/Spotifire.AssemblyInfoInputs.cache
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/Spotifire.AssemblyInfo.cs
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/Spotifire.csproj.CoreCompileInputs.cache
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/Spotifire.dll
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/refint/Spotifire.dll
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/Spotifire.pdb
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/Spotifire.genruntimeconfig.cache
+/Users/jdiazm/Projects/Spotifire/Spotifire/obj/Debug/net7.0/ref/Spotifire.dll
